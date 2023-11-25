@@ -161,6 +161,14 @@ iframe{
     text-align: center;
 }
 
+.linked{
+    width: 10%;
+    margin-bottom: 2%;
+}
+.contactBody{
+    padding-bottom: 30%;
+}
+
   @media screen and (min-width:768px){
     .hIndex{
         text-align:left;
@@ -192,5 +200,8 @@ iframe{
     .adBox{
         margin-top: 3%;
         margin-bottom: 3%;
+    }
+    .contactBody{
+        padding-bottom: 0%;
     }
   }
